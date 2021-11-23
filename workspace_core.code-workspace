@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ms_student"
+		},
+		{
+			"path": "../ms_teacher"
+		}
+	]
+}
